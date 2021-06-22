@@ -1,0 +1,15 @@
+
+@media print {
+    nav, .una-video-intro, .footer a, .resume-link, .contact-me-print-hide {
+        display: none;
+    }
+
+    body {
+        background-color: white;
+        color: black;
+    }
+
+    a {
+        color: black;
+    }
+}

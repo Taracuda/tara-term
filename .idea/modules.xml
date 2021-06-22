@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../CS601_HW5_Livingston/.idea/CS601_HW5_Livingston.iml" filepath="$PROJECT_DIR$/../CS601_HW5_Livingston/.idea/CS601_HW5_Livingston.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../HW1/.idea/HW1.iml" filepath="$PROJECT_DIR$/../HW1/.idea/HW1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../HW3/.idea/HW3.iml" filepath="$PROJECT_DIR$/../HW3/.idea/HW3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../HW4/.idea/HW4.iml" filepath="$PROJECT_DIR$/../HW4/.idea/HW4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../HW6/.idea/HW6.iml" filepath="$PROJECT_DIR$/../HW6/.idea/HW6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Livingston_Tara_Term_Project.iml" filepath="$PROJECT_DIR$/.idea/Livingston_Tara_Term_Project.iml" />
+    </modules>
+  </component>
+</project>
